@@ -68,7 +68,7 @@ nav a:hover {
     color: white;
 }
 
-/* Hero Section (ยุบรวม scroll-margin-top เข้ามาไว้ที่นี่แล้ว) */
+/* Hero Section */
 .hero {
     display: flex;
     align-items: center;
@@ -129,7 +129,7 @@ nav a:hover {
 .btn-primary { background: #2563eb; color: white; }
 .btn-primary:hover { background: #1d4ed8; }
 
-/* Main Content 3-Column Grid (ยุบรวม scroll-margin-top ของการ์ดเข้ามาไว้ที่นี่แล้ว) */
+/* Main Content 3-Column Grid */
 .main-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1.2fr;
